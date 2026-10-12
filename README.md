@@ -4,7 +4,7 @@
 
 ## 保存場所
 
-- Mac：デスクトップ `muneimunei/kotonoha`
+- Mac：デスクトップ `muneimunei/GPTS/kotonoha`
 - GitHub：https://github.com/muneimunei-arch/kotonoha
 - Xサーバー：https://muneiserver.xsrv.jp/kotonoha/
 
@@ -17,4 +17,4 @@
 3. 作業後に `02_GitHubへ保存.command` を実行します。
 4. 必要に応じて `03_Xサーバーをバックアップ.command` を実行します。
 
-バックアップは `muneimunei/kotonoha-非公開バックアップ` に保存され、GitHubには入りません。Xサーバーへの公開更新は、別途アップロードが必要です。
+バックアップは `muneimunei/GPTS/kotonoha-非公開バックアップ` に保存され、GitHubには入りません。Xサーバーへの公開更新は、別途アップロードが必要です。
