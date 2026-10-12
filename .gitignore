@@ -1,0 +1,13 @@
+.DS_Store
+.env*
+*.key
+*.pem
+*.sqlite*
+*.db
+config.json
+private-backups/
+.vercel/
+__pycache__/
+*.pyc
+*.tar.gz
+*.zip
