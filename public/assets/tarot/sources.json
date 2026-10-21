@@ -1,0 +1,200 @@
+[
+  {
+    "number": 1,
+    "card": "Magician",
+    "file": "dist/assets/tarot/01.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/de/RWS_Tarot_01_Magician.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_01_Magician.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 2,
+    "card": "High Priestess",
+    "file": "dist/assets/tarot/02.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/88/RWS_Tarot_02_High_Priestess.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_02_High_Priestess.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 3,
+    "card": "Empress",
+    "file": "dist/assets/tarot/03.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/RWS_Tarot_03_Empress.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_03_Empress.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 4,
+    "card": "Emperor",
+    "file": "dist/assets/tarot/04.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c3/RWS_Tarot_04_Emperor.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_04_Emperor.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 5,
+    "card": "Hierophant",
+    "file": "dist/assets/tarot/05.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/RWS_Tarot_05_Hierophant.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_05_Hierophant.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 6,
+    "card": "Lovers",
+    "file": "dist/assets/tarot/06.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_06_Lovers.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_06_Lovers.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 7,
+    "card": "Chariot",
+    "file": "dist/assets/tarot/07.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9b/RWS_Tarot_07_Chariot.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_07_Chariot.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 8,
+    "card": "Strength",
+    "file": "dist/assets/tarot/08.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f5/RWS_Tarot_08_Strength.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_08_Strength.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 9,
+    "card": "Hermit",
+    "file": "dist/assets/tarot/09.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4d/RWS_Tarot_09_Hermit.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_09_Hermit.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 10,
+    "card": "Wheel of Fortune",
+    "file": "dist/assets/tarot/10.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3c/RWS_Tarot_10_Wheel_of_Fortune.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_10_Wheel_of_Fortune.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 11,
+    "card": "Justice",
+    "file": "dist/assets/tarot/11.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/RWS_Tarot_11_Justice.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_11_Justice.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 12,
+    "card": "Hanged Man",
+    "file": "dist/assets/tarot/12.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2b/RWS_Tarot_12_Hanged_Man.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_12_Hanged_Man.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 13,
+    "card": "Death",
+    "file": "dist/assets/tarot/13.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d7/RWS_Tarot_13_Death.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_13_Death.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 14,
+    "card": "Temperance",
+    "file": "dist/assets/tarot/14.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f8/RWS_Tarot_14_Temperance.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_14_Temperance.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 15,
+    "card": "Devil",
+    "file": "dist/assets/tarot/15.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/55/RWS_Tarot_15_Devil.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_15_Devil.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 16,
+    "card": "Tower",
+    "file": "dist/assets/tarot/16.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/RWS_Tarot_16_Tower.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_16_Tower.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 17,
+    "card": "Star",
+    "file": "dist/assets/tarot/17.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_17_Star.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_17_Star.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 18,
+    "card": "Moon",
+    "file": "dist/assets/tarot/18.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7f/RWS_Tarot_18_Moon.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_18_Moon.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 19,
+    "card": "Sun",
+    "file": "dist/assets/tarot/19.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/RWS_Tarot_19_Sun.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_19_Sun.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 20,
+    "card": "Judgement",
+    "file": "dist/assets/tarot/20.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/RWS_Tarot_20_Judgement.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_20_Judgement.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 21,
+    "card": "World",
+    "file": "dist/assets/tarot/21.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/ff/RWS_Tarot_21_World.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_21_World.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  },
+  {
+    "number": 22,
+    "card": "Fool",
+    "file": "dist/assets/tarot/22.jpg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/RWS_Tarot_00_Fool.jpg",
+    "description_page": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_00_Fool.jpg",
+    "artist": "Pamela Colman Smith",
+    "license": "Public domain; original Rider-Waite-Smith Pam-A scan"
+  }
+]

@@ -7,6 +7,7 @@
 - Mac：デスクトップ `muneimunei/GPTS/kotonoha`
 - GitHub：https://github.com/muneimunei-arch/kotonoha
 - Xサーバー：https://muneiserver.xsrv.jp/kotonoha/
+- Vercel：GitHub の `main` ブランチから `public` を公開
 
 `public` が公開用ファイルです。Vercelはリポジトリ直下の `vercel.json` を読み、`public` を公開します。
 
