@@ -3,7 +3,7 @@ from pathlib import Path
 import subprocess, datetime, os
 
 home = Path.home()
-key = home / 'Desktop/muneimunei/GPTS/muneiserver.key'
+key = home / 'Desktop/muneimunei/muneiserver.key'
 dest = home / 'Desktop/muneimunei/GPTS/kotonoha-非公開バックアップ'
 stamp = datetime.datetime.now().strftime('%Y%m%d-%H%M%S')
 remote = '/home/muneiserver/kotonoha-backups/desktop-backup.tar.gz'
