@@ -3,7 +3,7 @@ from pathlib import Path
 import subprocess, datetime
 
 root = Path(__file__).resolve().parents[1]
-allowed = ['public', 'scripts', 'README.md', 'vercel.json', '.gitignore',
+allowed = ['public', 'server', 'scripts', 'README.md', 'vercel.json', '.gitignore',
            '01_GitHubから更新.command', '02_GitHubへ保存.command',
            '03_Xサーバーをバックアップ.command']
 private_key_marker = b'-----BEGIN PRIVATE' + b' KEY'
@@ -11,7 +11,7 @@ private_key_marker = b'-----BEGIN PRIVATE' + b' KEY'
 def git(*args):
     return subprocess.run(['git', *args], cwd=root, check=True)
 
-for folder in ['public', 'scripts']:
+for folder in ['public', 'server', 'scripts']:
     for path in (root / folder).rglob('*'):
         if not path.is_file():
             continue
