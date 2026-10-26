@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kotonoha-personality-reading.vercel.app/sitemap.xml
